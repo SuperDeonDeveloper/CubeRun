@@ -1,2 +1,0 @@
-# CubeRun
-Endless Runner Game
